@@ -30,16 +30,6 @@ Write a program that prompts the user for a number, then displays the appropriat
 | 7 | Sunday |
 | anything else | "error" |
 
-## `group-sizes.js`
-
-Lets say we have a class of students that we want to separate into groups of three. Inevitably, if there are leftover students, we may need to have some groups of two. A group of one is not something that we want.
-
-**Example 1:** if we have a class size of 15, we would create 5 groups of 3 and 0 groups of 2 
-**Example 2:** if we have a class size of 16, we would create 4 groups of 3 and 2 groups of 2
-**Example 3:** if we have a class size of 17, we would create 5 groups of 3 and 1 group of 2
-
-Write a program that prompts the user for a class size, then logs out the number of groups of 3 the number of groups of 2 that the class would be divided into.
-
 ## `space-boxing.js`
 
 Julio Cesar Chavez Mark VII is an interplanetary space boxer, who currently holds the championship belts for various weight categories on many different planets within our solar system. However, it is often difficult for him to recall what his "target weight" needs to be on earth in order to make the weight class on other planets. Write a program to help him keep track of this.
@@ -60,5 +50,18 @@ So, for example, if Julio weighs 128 lbs. on earth, then he would weigh just und
 ## `fizzbuzz.js`
 
 This is a classic interview question. Write a program that asks the user for a number. If the number is divisible by 3, the program logs "fizz". If the number is divisible by 5, log "buzz". If the number is divisible by 3 and 5, log "fizzbuzz".
+
+# Stretch Goals
+
+## `group-sizes.js`
+
+Lets say we have a class of students that we want to separate into groups of three. Inevitably, if there are leftover students, we may need to have some groups of two. A group of one is not something that we want.
+
+**Example 1:** if we have a class size of 15, we would create 5 groups of 3 and 0 groups of 2 
+**Example 2:** if we have a class size of 16, we would create 4 groups of 3 and 2 groups of 2
+**Example 3:** if we have a class size of 17, we would create 5 groups of 3 and 1 group of 2
+
+Write a program that prompts the user for a class size, then logs out the number of groups of 3 the number of groups of 2 that the class would be divided into.
+
 
 ##
